@@ -1,0 +1,12 @@
+# Site settings
+title: Various writeups on YANG
+email: callemoberg@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Various writeups on the YANG language.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cmoberg.github.io" # the base hostname & protocol for your site
+twitter_username: cmoberg
+github_username:  cmoberg
+
+# Build settings
+markdown: kramdown
