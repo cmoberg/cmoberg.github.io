@@ -1,6 +1,6 @@
 ---
-layout: default
-title: A first post using github pages
+layout: post
+title: A first post and some snippets
 ---
 
-Here is my page.	
+I just added [a new repo](https://github.com/cmoberg/sublime-yang-snippets) for tracking a couple of Sublime Text snippets for editing YANG modules. 
