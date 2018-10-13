@@ -10,3 +10,7 @@ github_username:  cmoberg
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+plugins:
+  - jemoji
